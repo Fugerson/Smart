@@ -536,6 +536,9 @@ body, html {
 	justify-content: center;
 	flex-wrap: wrap
 }
+.wrapper .main .partners .partners__link a{
+	height: 70px;
+}
 .wrapper .main .partners__img {
 	margin: 30px;
 	-webkit-box-flex: 1;
