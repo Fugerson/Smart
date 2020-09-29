@@ -437,6 +437,7 @@ body, html {
 	margin: 8px 0
 }
 .wrapper .main .clients {
+	margin-bottom:25px;
 	min-height: 650px
 }
 .wrapper .main .clients__slider-side1-text-top {
