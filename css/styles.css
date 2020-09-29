@@ -338,12 +338,12 @@ body, html {
 	box-shadow: 0 0 30px rgba(0, 0, 0, .5)
 }
 .wrapper .main .card__right {
-	background-image: url(/img/man-4568762_1920.jpg);
+	background-image: url(img/man-4568762_1920.jpg);
 	background-size: cover;
 	background-position: center
 }
 .wrapper .main .card__left {
-	background-image: url(/img/man-1209494.jpg);
+	background-image: url(img/man-1209494.jpg);
 	background-size: cover;
 	background-position: center
 }
@@ -376,7 +376,7 @@ body, html {
 	font-size: 16px
 }
 .wrapper .main .card__center {
-	background-image: url(/img/photographer-5149664.jpg);
+	background-image: url(img/photographer-5149664.jpg);
 	background-size: cover;
 	background-position: center;
 	width: 360px;
@@ -450,12 +450,12 @@ body, html {
 	margin: -50px auto 0
 }
 .wrapper .main .clients_head-One {
-	background-image: url(/img/woman-4644496_1920.jpg);
+	background-image: url(img/woman-4644496_1920.jpg);
 	background-size: cover;
 	background-position: center
 }
 .wrapper .main .clients_head-Two {
-	background-image: url(/img/man-4672229_1920.jpg);
+	background-image: url(img/man-4672229_1920.jpg);
 	background-size: cover;
 	background-position: top
 }
